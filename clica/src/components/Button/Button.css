@@ -1,0 +1,17 @@
+button{
+    padding: 16px;
+    margin: 32px;
+    background-color: transparent;
+    border: 2px outset;
+    border-radius: 30px;
+    color: #D9D2D0;
+}
+
+button:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+button:active{
+    transform: scale(1);
+}
